@@ -1,7 +1,5 @@
 <h1 align="center">FacturasAPI</h1>
 
-**FacturasAPI** es una API deliciosa y sencilla que permite gestionar **facturas comestibles**. Con esta API podrás obtener, crear, actualizar y eliminar facturas en tu "panadería virtual", todo mientras disfrutas de un toque de humor y sabor.
-
 ## Características
 
 - **Obtener todas las facturas**: Consulta todas las deliciosas facturas disponibles en la panadería virtual. ¡No olvides elegir tu favorita!
@@ -106,8 +104,11 @@ Requisitos
 
     La API requiere que tu servidor esté corriendo en http://localhost:4040 (o el puerto configurado).
     La API utiliza CORS, por lo que puedes acceder a ella desde aplicaciones frontend alojadas en otros dominios.
+<<<<<<< HEAD
     
 
 ### Contribuir
 
 Siéntete libre de hacer un fork del repositorio, hacer cambios y enviar un pull request. ¡Toda ayuda es bienvenida!
+=======
+>>>>>>> 6eba3b6931b1411c27735ba927a03a7ee3bc6293
