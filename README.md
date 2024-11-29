@@ -101,16 +101,12 @@ Respuesta:
 }
 ```
 
-Requisitos
+### Requisitos
 
     La API requiere que tu servidor esté corriendo en http://localhost:4040 (o el puerto configurado).
     La API utiliza CORS, por lo que puedes acceder a ella desde aplicaciones frontend alojadas en otros dominios.
-<<<<<<< HEAD
     
-
 ### Contribuir
 
 Siéntete libre de hacer un fork del repositorio, hacer cambios y enviar un pull request. ¡Toda ayuda es bienvenida!
-=======
->>>>>>> 6eba3b6931b1411c27735ba927a03a7ee3bc6293
->>>>>>> </p>
+</p>
