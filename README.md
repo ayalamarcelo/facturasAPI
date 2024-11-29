@@ -105,6 +105,13 @@ Respuesta:
 
     La API requiere que tu servidor esté corriendo en http://localhost:4040 (o el puerto configurado).
     La API utiliza CORS, por lo que puedes acceder a ella desde aplicaciones frontend alojadas en otros dominios.
+
+### Dependencias
+
+Para installar las dependencias: 
+```npm
+npm install
+```
     
 ### Contribuir
 
