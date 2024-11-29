@@ -1,0 +1,20 @@
+{
+  "name": "facturasapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-rate-limit": "^7.4.1",
+    "parser": "^0.1.4",
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
+  }
+}

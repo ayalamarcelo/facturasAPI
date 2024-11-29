@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "nombre": "Medialuna de Manteca",
+        "url_imagen": "assets/img/medialuna_manteca.png"
+    },
+    {
+        "id": "2",
+        "nombre": "Cañoncito de Dulce de Leche",
+        "url_imagen": "assets/img/canioncito_dulce_de_leche.png"
+    },
+    {
+        "id": "3",
+        "nombre": "Vigilante",
+        "url_imagen": "assets/img/vigilante.png"
+    },
+    {
+        "id": "4",
+        "nombre": "Churros con Dulce de Leche",
+        "url_imagen": "assets/img/churros_dulce_de_leche.png"
+    },
+    {
+        "id": "5",
+        "nombre": "Margarita",
+        "url_imagen": "assets/img/margarita_pastelera.png"
+    },
+    {
+        "id": "6",
+        "nombre": "Moñito",
+        "url_imagen": "assets/img/monito.png"
+    },
+    {
+        "id": "7",
+        "nombre": "Piernitas",
+        "url_imagen": "assets/img/piernitas_pastelera.png"
+    },
+    {
+        "id": "8",
+        "nombre": "Sacramentos",
+        "url_imagen": "assets/img/sacramentos.png"
+    },
+    {
+        "id": "9",
+        "nombre": "Tortita Negra",
+        "url_imagen": "assets/img/tortita_negra.png"
+    },
+    {
+        "id": "10",
+        "nombre": "Huevo Frito con Dulce de Leche",
+        "url_imagen": "assets/img/huevo_frito.png"
+    },
+    {
+        "id": "11",
+        "nombre": "Libritos de Hojaldre con Dulce de Leche",
+        "url_imagen": "assets/img/libritos_hojaldre_dulce_de_leche.png"
+    },
+    {
+        "id": "12",
+        "nombre": "Ferrocarril con Crema Pastelera",
+        "url_imagen": "assets/img/ferrocarril_pastelera_membrillo.png"
+    },
+    {
+        "id": "13",
+        "nombre": "Danesa con Crema Pastelera",
+        "url_imagen": "assets/img/danesa_pastelera.png"
+    },
+    {
+        "id": "14",
+        "nombre": "Santiagueñas",
+        "url_imagen": "assets/img/santiguenas.png"
+    },
+    {
+        "id": "15",
+        "nombre": "Pan de Leche, Manzana",
+        "url_imagen": "assets/img/factura_manzana.png"
+    },
+    {
+        "id": "16",
+        "nombre": "Lenguita Pastelera",
+        "url_imagen": "assets/img/pastelera.png"
+    }
+]
