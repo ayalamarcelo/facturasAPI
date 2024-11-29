@@ -32,8 +32,8 @@ Crea una nueva factura:
     "url": "https://mi-panaderia.com/factura-chocolate.jpg"
   }
   ```
- ** Respuesta exitosa: Información de la nueva factura creada.
- ** Código de respuesta: 201 Created
+ - **Respuesta exitosa: Información de la nueva factura creada.**
+ - **Código de respuesta: 201 Created**
 
 ### 4. PUT /api/:id
 
