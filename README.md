@@ -1,13 +1,12 @@
 <h1 align="center">FacturasAPI</h1>
-<p align="center">
   
 ## Características
 
-- **Obtener todas las facturas**: Consulta todas las deliciosas facturas disponibles en la panadería virtual. ¡No olvides elegir tu favorita!
-- **Obtener una factura por ID**: Si tienes una factura en mente, puedes acceder a la receta detallada de esa factura, incluyendo su nombre y su imagen.
-- **Crear una nueva factura**: Si eres panadero, puedes agregar una nueva factura a la base de datos con una receta deliciosa.
-- **Actualizar una factura existente**: ¿Tu receta de factura ha cambiado? ¡Actualízala fácilmente con nuevos ingredientes!
-- **Eliminar una factura**: Si una factura ya no es parte de tu menú, puedes eliminarla de la base de datos.
+- **Obtener todas las facturas**
+- **Obtener una factura por ID**
+- **Crear una nueva factura**
+- **Actualizar una factura existente**
+- **Eliminar una factura**
 
 ## Endpoints
 
@@ -17,17 +16,18 @@ Devuelve una lista de todas las facturas disponibles en la panadería.
 - **Código de respuesta**: `200 OK`
 
 ### 2. `GET /api/:id`
-Devuelve la receta de una factura específica por su ID.
+Devuelve una factura específica por su ID.
 - **Parámetros**: `id` (identificador único de la factura).
 - **Respuesta exitosa**: Datos de la factura (`id`, `nombre`, `url`).
 - **Código de respuesta**: `200 OK`
 - **Si no se encuentra la factura**: `404 Not Found`
 
 ### 3. `POST /api`
-Crea una nueva factura (¡y que sea sabrosa!).
+Crea una nueva factura:
 - **Cuerpo de la solicitud**:  
   ```json
   {
+    "id": 7,
     "nombre": "Factura de Chocolate",
     "url": "https://mi-panaderia.com/factura-chocolate.jpg"
   }
@@ -37,7 +37,7 @@ Crea una nueva factura (¡y que sea sabrosa!).
 
 ### 4. PUT /api/:id
 
-Actualiza la receta de una factura existente.
+Actualiza una factura existente.
 
     Parámetros: id (identificador de la factura a actualizar).
     Cuerpo de la solicitud:
@@ -109,4 +109,4 @@ Respuesta:
 ### Contribuir
 
 Siéntete libre de hacer un fork del repositorio, hacer cambios y enviar un pull request. ¡Toda ayuda es bienvenida!
-</p>
+
