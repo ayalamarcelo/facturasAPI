@@ -1,8 +1,8 @@
 <h1 align="center">FacturasAPI</h1>
 
-<div style="text-align: center;">
-  <img src="./assets/icons/Leon-2.png" alt="Fileteado porteño">
-</div>
+<p align="center">
+  <img src="./assets/icons/separador.png" alt="Flor separadora">
+</p>
 
 ## Características
 
