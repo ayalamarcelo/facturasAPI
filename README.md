@@ -1,7 +1,5 @@
 <h1 align="center">FacturasAPI</h1>
 
-**FacturasAPI** es una API deliciosa y sencilla que permite gestionar **facturas comestibles**. Con esta API podrás obtener, crear, actualizar y eliminar facturas en tu "panadería virtual", todo mientras disfrutas de un toque de humor y sabor.
-
 ## Características
 
 - **Obtener todas las facturas**: Consulta todas las deliciosas facturas disponibles en la panadería virtual. ¡No olvides elegir tu favorita!
