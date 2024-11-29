@@ -1,9 +1,5 @@
 <h1 align="center">FacturasAPI</h1>
 
-<p align="center">
-  <img src="./assets/icons/separador.png" alt="Flor separadora">
-</p>
-
 ## Características
 
 - **Obtener todas las facturas**
@@ -114,6 +110,7 @@ Respuesta:
 
 Siéntete libre de hacer un fork del repositorio, hacer cambios y enviar un pull request. ¡Toda ayuda es bienvenida!
 
-<div style="text-align: center;">
-  <img src="./assets/icons/flor-separadora.png" alt="Flor separadora">
-</div>
+<hr>
+<p align="center">
+  <img src="./assets/icons/Leon-2.png" alt="Flor separadora" height="45">
+</p>
