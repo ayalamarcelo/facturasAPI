@@ -1,5 +1,9 @@
 <h1 align="center">FacturasAPI</h1>
-  
+
+<div style="text-align: center;">
+  <img src="./assets/icons/Leon-2.png" alt="Fileteado porteño">
+</div>
+
 ## Características
 
 - **Obtener todas las facturas**
@@ -110,3 +114,6 @@ Respuesta:
 
 Siéntete libre de hacer un fork del repositorio, hacer cambios y enviar un pull request. ¡Toda ayuda es bienvenida!
 
+<div style="text-align: center;">
+  <img src="./assets/icons/flor-separadora.png" alt="Flor separadora">
+</div>
