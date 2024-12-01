@@ -43,6 +43,7 @@ Actualiza una factura existente.
     Cuerpo de la solicitud:
  ```json
     {
+      "id":"1"
       "nombre": "Factura de Crema Pastelera",
       "url": "https://mi-panaderia.com/factura-crema-pastelera.jpg"
     }
